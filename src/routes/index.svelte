@@ -42,11 +42,6 @@ import About from "./about.svelte";
     text-align: center;
   }
 
-  figcaption {
-    font-size: .8em;
-    font-style: italic;
-  }
-
   img {
     width: 100%;
     max-width: 400px;
@@ -94,6 +89,11 @@ import About from "./about.svelte";
     img {
       max-width: 300px;
     }
+    .hero-img {
+      max-height: 400px;
+      max-width: 400px;
+      align-self: center;
+    }
   }
 
   @media (max-width: 800px) {
@@ -126,10 +126,17 @@ import About from "./about.svelte";
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    min-width: 1400px;
+    max-width: 1400px;
     margin: 5em 5em;
     text-align: start;
     align-items: center;
+  }
+
+  @media (max-width: 800px) {
+    .event-container {
+      flex-direction: column;
+      flex-direction: column-reverse;
+    }
   }
   .event-description {
     max-width: 600px;

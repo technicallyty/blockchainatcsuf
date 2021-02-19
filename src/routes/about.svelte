@@ -21,7 +21,6 @@ import { fix_and_outro_and_destroy_block } from "svelte/internal";
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 1200px;
     align-content: center;
     justify-content: space-between;
   }
@@ -30,7 +29,7 @@ import { fix_and_outro_and_destroy_block } from "svelte/internal";
     display: flex;
     flex-direction: column;
     min-height: 500px;
-    width: 500px;
+    max-width: 500px;
     margin: 25px;
   }
 
