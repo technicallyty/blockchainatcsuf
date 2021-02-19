@@ -70,10 +70,12 @@
     </div>
     <div>
       <ul>
-        <li><img src="discord.png" alt="discord"/></li>
+        <li><a href="https://discord.gg/S95gFHp8wM" target="_blank"><img src="discord.png" alt="discord" /></a></li>
+        <!-- 
         <li><img src="instagram.png" alt="instagram"/></li>     
         <li><img src="twitter.png" alt="twitter"/></li>   
         <li><img src="github.png" alt="github"/></li>  
+        -->
       </ul>
     </div>
   </footer>

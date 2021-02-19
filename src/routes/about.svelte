@@ -92,57 +92,12 @@ import { fix_and_outro_and_destroy_block } from "svelte/internal";
         <div class="team-info">
           <h2 class="name">Tyler Goodman</h2>
           <ul>
-            <li><img src="github.png" alt="github"></li>
-            <li><img src="twitter.png" alt="twitter"></li>
+            <li><a href="https://github.com/technicallyty" target="_blank"><img src="github.png" alt="github"></a></li>
+            <li><a href="https://twitter.com/technicallyty" target="_blank"><img src="twitter.png" alt="twitter"></a></li>
           </ul>
         </div>
       </div>
-      <p>President/Founder of Blockchain at CSUF. Software Engineer in the IT/AppDev department at CSUF. Ethereum Core contributor. DeFi enthusiast. I enjoy working with Golang, Solidity, and React with Web3.</p>
-    </div>
-  </div>
-  <div class="team">
-    <div class="team-card">
-      <div class="team-header">
-        <img src="myself.png" alt="Tyler Goodman" >
-        <div class="team-info">
-          <h2 class="name">Tyler Goodman</h2>
-          <ul>
-            <li><img src="github.png" alt="github"></li>
-            <li><img src="twitter.png" alt="twitter"></li>
-          </ul>
-        </div>
-      </div>
-      <p>President/Founder of Blockchain at CSUF. Software Engineer in the IT/AppDev department at CSUF. Ethereum Core contributor. DeFi enthusiast. I enjoy working with Golang, Solidity, and React with Web3.</p>
-    </div>
-  </div>
-  <div class="team">
-    <div class="team-card">
-      <div class="team-header">
-        <img src="myself.png" alt="Tyler Goodman" >
-        <div class="team-info">
-          <h2 class="name">Tyler Goodman</h2>
-          <ul>
-            <li><img src="github.png" alt="github"></li>
-            <li><img src="twitter.png" alt="twitter"></li>
-          </ul>
-        </div>
-      </div>
-      <p>President/Founder of Blockchain at CSUF. Software Engineer in the IT/AppDev department at CSUF. Ethereum Core contributor. DeFi enthusiast. I enjoy working with Golang, Solidity, and React with Web3.</p>
-    </div>
-  </div>
-  <div class="team">
-    <div class="team-card">
-      <div class="team-header">
-        <img src="myself.png" alt="Tyler Goodman" >
-        <div class="team-info">
-          <h2 class="name">Tyler Goodman</h2>
-          <ul>
-            <li><img src="github.png" alt="github"></li>
-            <li><img src="twitter.png" alt="twitter"></li>
-          </ul>
-        </div>
-      </div>
-      <p>President/Founder of Blockchain at CSUF. Software Engineer in the IT/AppDev department at CSUF. Ethereum Core contributor. DeFi enthusiast. I enjoy working with Golang, Solidity, and React with Web3.</p>
+      <p>Tyler is the president and founder of Blockchain at CSUF. He works as a blockchain developer with Cosmos SDK. In his spare time he enjoys tinkering with DeFi and playing tabletop games.</p>
     </div>
   </div>
 </div>

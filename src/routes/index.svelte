@@ -138,6 +138,10 @@ import About from "./about.svelte";
   border-top: 3px solid #bbb;
   width: 100%;
 }
+  .hero-img {
+    min-height: 500px;
+    min-width: 500px;
+  }
 </style>
 
 <svelte:head>
@@ -149,24 +153,23 @@ import About from "./about.svelte";
     <h1>Blockchain at <span class="csuf-college-blue">CSUF</span>.</h1>
     <wrap>
       <p>CSUF's hub for all things blockchain.</p>
-      <a class="join" href="https://fullerton.campuslabs.com/engage/" target="_blank">Join Us</a>
+      <a class="join" href="https://discord.gg/S95gFHp8wM" target="_blank">Join Us</a>
     </wrap>
   </div>
 
   <figure>
-    <img alt='Person typing on laptop' src='undraw-illustration.svg'>
-    <figcaption>Illustration thanks to <a href="https://undraw.co" target="_blank">Undraw</a></figcaption>
+    <img class="hero-img" alt='tuffy the titan blockchain logo' src='TITANS.SVG'>
   </figure>
 </div>
 
 
 <div class="spacer" />
-<h1 class="center-heading">Past Events</h1>
+<h1 class="center-heading">Events</h1>
 <div class="banner">
   <div class="event-container">
     <div class="event-description">
       <h2>HackFS</h2>
-      <p>Students at HackFS built a new decentralized finance protocol that enabled liquidity pools to borrow and lend.</p>
+      <p>Students can form groups to participate in HackFS events and build on top of Ethereum, IPFS, and Filecoin.</p>
     </div>
     <img class="banner-img" src="hackfs.png" alt="Hack FS">
   </div>
@@ -175,14 +178,14 @@ import About from "./about.svelte";
     <img src="ETHOnline.png" alt="EthOnline Banner" class="banner-img">
     <div class="event-description">
       <h2>ETHOnline Hackathon</h2>
-      <p>Students built a new protocol that enabled DeFi users to stake coins in an offchain protocol.</p>
+      <p>Students form groups to work on ETHOnline bounties, or come up with any project that interests them on Ethereum.</p>
     </div>
   </div>
   <hr class="solid">
   <div class="event-container">
     <div class="event-description">
       <h2>CSUF Annual Gitcoin Bounty</h2>
-      <p>Students claimed and completed bounties at our annual gitcoin hackathon - a CSUF exclusive event.</p>
+      <p>Students can form groups to work on bounties for different projects, or find and particiapte in different hackathons offered at Gitcoin.</p>
     </div>
     <img src="gitcoin.jpg" alt="gitcoin" class="banner-img">
   </div>
