@@ -160,7 +160,7 @@ import About from "./about.svelte";
     <h1>Blockchain at <span class="csuf-college-blue">CSUF</span>.</h1>
     <wrap>
       <p>CSUF's hub for all things blockchain.</p>
-      <a class="join" href="https://discord.gg/S95gFHp8wM" target="_blank">Join Us</a>
+      <a class="join" href="https://discord.gg/URnqyKMwjd" target="_blank">Join Us</a>
     </wrap>
   </div>
 
