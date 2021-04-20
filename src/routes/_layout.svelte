@@ -70,7 +70,7 @@
     </div>
     <div>
       <ul>
-        <li><a href="https://discord.gg/S95gFHp8wM" target="_blank"><img src="discord.png" alt="discord" /></a></li>
+        <li><a href="https://discord.gg/URnqyKMwjd" target="_blank"><img src="discord.png" alt="discord" /></a></li>
         <!-- 
         <li><img src="instagram.png" alt="instagram"/></li>     
         <li><img src="twitter.png" alt="twitter"/></li>   
